@@ -1,1 +1,1 @@
-# HospitalManagement_MiniProject
+Hospital Management Website developed using Django Framework
